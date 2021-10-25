@@ -1,1 +1,1 @@
-Simple Travel website model.
+Travel Website Model using django framework.
